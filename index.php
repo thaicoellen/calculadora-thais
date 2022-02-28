@@ -44,7 +44,7 @@ if($_POST){
             <div class="col-3">
                 <select class="form-control" name="operacao" required>
                     <option value="">Selecione um opção</option>
-                    <option value="soma">Somar</option>
+                    <option value="soma">Soma</option>
                     <option value="subtracao">Subtração</option>
                     <option value="multiplicacao">Multiplicação</option>
                     <option value="divisao">Divisão</option>
