@@ -8,7 +8,7 @@ if($_POST){
 
     $total = ($v1*$v2);
 
-    echo "O resultado somando os dois valores é: ".$total;
+    echo "O resultado multiplicando os dois valores é: ".$total;
 }
 
 ?>

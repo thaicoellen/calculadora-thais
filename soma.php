@@ -40,5 +40,4 @@ if($_POST){
     </form>
   </body>
 </html>
-    <!--<input type="submit" value="Somar">-->
 </form>
